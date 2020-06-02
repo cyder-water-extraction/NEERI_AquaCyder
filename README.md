@@ -1,4 +1,4 @@
-# Aqua_Cyder(Bridging Earth Observation data and Machine Learning in Python)
+# Aqua_Cyder (Bridging Earth Observation data and Machine Learning in Python)
 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cyder-water-extraction/NEERI_AquaCyder/master)
 
