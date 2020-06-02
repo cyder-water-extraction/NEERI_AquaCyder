@@ -34,8 +34,8 @@ At the moment the recommended way is using a virtual environment (`venv`, i.e. `
 Alternatively, create a new environment for this tutorial using the provided environment.yml file:
 
 ```
-conda env create --name eo-learn-workshop --file environment.yml
-conda activate eo-learn-workshop
+conda env create --name AquaCyder --file environment.yml
+conda activate AquaCyder
 ```
 
 
