@@ -1,4 +1,4 @@
-# Bridging Earth Observation data and Machine Learning in Python
+# Aqua_Cyder(Bridging Earth Observation data and Machine Learning in Python)
 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cyder-water-extraction/NEERI_AquaCyder/master)
 
@@ -17,10 +17,11 @@ The `eo-learn` library acts as a bridge between the Earth Observation (EO)/Remot
 During the workshop we will introduce the `eo-learn` framework, show examples of tasks dealing with retrieving the EO data (e.g. Sentinel-2, Sentinel-1, DEM), processing it, adding non-EO data (e.g. labels) to the dataset etc. and finally build the whole pipeline to run such workflow for larger areas, thus preparing the data for ML algorithms.
 
 
-## Installation notes
+# Installation notes
 
 
-**Follow the workshop with just your browser?**   
+**Follow the workshop with just your browser?**  
+
 You can use the "launch binder" link above at the top of this README, which will launch a notebook instance on Binder with all required libraries installed.
 
 
