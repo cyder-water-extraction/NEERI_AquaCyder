@@ -14,19 +14,12 @@ Password:zgcljnjvjzsvagxphq@awdrt.org
 
 
 ## How to Import/Clone AquaCyder UI on personal Anvil-Uplink account  
-* Signup
-
-To clone NEERI_AquaCyder file:
-sTEP1:
-Go to settings in upper left of screen.
-In drop down menu select Share app
-
-step2:
-Now you have tow options 
-1)create a git clone for Github.
-2)Download file-: After downloading file sign up for your own anvil account. Then click on "create app" option. Then click on "import file" the select the downloaded file.App file will be cloned in you anvil account.
-
-
+* Download `NEERIAquaCyder.yaml` on your machine
+* Signup on Anvil-Uplink
+* Click on "create app" option. 
+* Choose the option to "import file"
+* Browse to the downloaded file
+* App file will be cloned in you anvil account.
 
            
 
