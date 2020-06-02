@@ -1,12 +1,13 @@
 
-## How to access cyder
-Visit- https://anvil.works/login
+## How to access AquaCyder from existing Anvil-Uplink account  
+ - Visit- https://anvil.works/login
+ - login with following credentials
 
-
+```
 login id:zgcljnjvjzsvagxphq@awdrt.org
 Password:zgcljnjvjzsvagxphq@awdrt.org
-
-Click on project Neeri_AquaCyder
+```
+- Click on project Neeri_AquaCyder
 
 
 upper right two tabs to change between interface and code. Run button on top
