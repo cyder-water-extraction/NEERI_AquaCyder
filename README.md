@@ -26,14 +26,14 @@ You can use the "launch binder" link above at the top of this README, which will
 
 ## 2) Run on your own computer
 
- **Running on pip environment**
+ **Running on pip environment**  
 The minimal requirements are
  + eo-learn (please see [installation instructions](https://eo-learn.readthedocs.io/en/latest/install.html))
  + [jupyter](https://jupyter.org/install)
 
 At the moment the recommended way is using a virtual environment (`venv`, i.e. `python3.6 -m venv AquaCyder`) or `pipenv` Installing with `conda` might prove problematic. On Linux it is recommended to install system packages from  [CI build instructions](https://github.com/sentinel-hub/eo-learn/blob/master/.travis.yml#L12) first.
 
-- **Running on conda environment**
+- **Running on conda environment**  
  Alternatively,download this repository and create a new conda environment using the provided environment.yml file:
 
 ```
