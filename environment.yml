@@ -1,4 +1,4 @@
-name: eo-learn-workshop-environment
+name: AquaCyder
 channels:
   - conda-forge
 dependencies:
@@ -6,9 +6,11 @@ dependencies:
 - rasterio
 - shapely
 - pillow
-- geopandas
+- Fiona==1.8.13
+- geopandas==0.6.2
 - scikit-learn
 - lightgbm
 - pip:
   - eo-learn
   - overpass
+  - anvil-uplink
