@@ -57,4 +57,4 @@ It is possible to run the tutorial using your own Sentinel-Hub credentials. In o
 
 ## Authors
 
-RCOEM Interns at NEERI (<pandeyos5442@gmail.com>).
+RCOEM Interns at CSIR-NATIONAL ENVIRONMENTAL ENGINEERING RESEARCH INSTITUTE, NAGPUR
